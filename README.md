@@ -46,11 +46,11 @@ git clone <your-repository-url>
 cd Education-to-Employment
 ````
 
-### 2. Set Up the Environment
+### 2. Set Up the Environment on Windows: venv\Scripts\activate
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
