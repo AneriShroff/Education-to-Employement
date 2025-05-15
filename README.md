@@ -1,4 +1,4 @@
-```
+
 # 🎓 Education to Employment: Data Mining for Job Offers and Salary Prediction
 
 ![License](https://img.shields.io/badge/license-Academic-blue)
@@ -20,7 +20,7 @@ The project explores how academic records, certifications, and networking contri
 
 ## 🗂️ Repository Structure
 
-```
+```'
 
 📦 Education-to-Employment
 ┣ 📁 data/                             # Dataset (Not included due to privacy)
@@ -158,8 +158,3 @@ Contact the author for permission if you wish to use it in any other context.
 ## Ready to Explore
 
 Clone, run, and discover how data mining can predict graduate employability outcomes!
-
-```
-
-You may paste this directly into your repository’s `README.md`. It meets academic, technical, and contribution standards. Would you like a requirements.txt template as well?
-```
