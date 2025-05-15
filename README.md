@@ -157,4 +157,4 @@ Contact the author for permission if you wish to use it in any other context.
 
 ## Ready to Explore
 
-Clone, run, and discover how data mining can predict graduate employability outcomes!
+Clone, run and discover how data mining can predict graduate employability outcomes!
