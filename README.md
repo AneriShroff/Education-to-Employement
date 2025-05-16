@@ -103,7 +103,7 @@ pip install -r requirements.txt
 
 ## Documentation
 
-* `Thesis_Project_Report.pdf`: Comprehensive thesis report covering objectives, methods, experiments, and findings.
+* `Education_to_Employement.pdf`: Comprehensive thesis report covering objectives, methods, experiments, and findings.
 
 ---
 
